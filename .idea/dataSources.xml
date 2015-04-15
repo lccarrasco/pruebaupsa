@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1889197674">
+    <data-source source="LOCAL" name="Rails pruebaupsa: development" uuid="02a55672-8efd-499a-ac22-8c5656e14258">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/pruebaupsa_development</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfd8dfc5dfc5dfde</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails pruebaupsa: test" uuid="fad1e512-55c5-49b3-bd27-c556ed2c5022">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/pruebaupsa_test</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfd8dfc5dfc5dfde</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails pruebaupsa: production" uuid="9ef7c2af-81ca-4c3b-8142-481a09f5a65f">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/d7cj05eg4he3vb</jdbc-url>
+      <user-name>kvkowenfbfwobi</user-name>
+      <user-password>dffadf99dffedf9bdfdcdfeddffcdfecdff9dfe4dfdbdffddfe5dfe3dffedfcfdfdcdfd0dffddff9df92dfe4dfcbdff3dfdedfdc</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
